@@ -1,1 +1,2 @@
- - Cictation use Flutter web wasm compile
+ - Dictation use Flutter web wasm compile
+- https://fighttechvn.github.io/poc-dictation-wasm/
